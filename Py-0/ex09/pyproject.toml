@@ -1,0 +1,18 @@
+[project]
+name = "ft_package"
+version = "0.0.1"
+authors = [
+    { name = "lmenoni", email = "leonardo.menoni@live.it" },
+]
+description = "An example of a package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Indipendent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://cdn.intra.42.fr/pdf/pdf/163839/en.subject.pdf"
